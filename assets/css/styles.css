@@ -211,12 +211,16 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 260px;
+  width: 400px;
 }
 .home__blob {
   fill: var(--first-color);
 }
 .home__blob-img {
+  x="0"
+  y="-40"  
+  width="405"
+  height="405"
   width: 405px;
 }
 
